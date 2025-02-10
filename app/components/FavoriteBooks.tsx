@@ -15,7 +15,7 @@ const books = [
     author: "Andrew Hunt, David Thomas",
     image: "/THE.PNG",
     description: "Your journey to mastery",
-  },
+  }, 
   {
     title: "Design Patterns",
     author: "Erich Gamma, et al.",
